@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
