@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0217-contains-duplicate) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
