@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0197-rising-temperature) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
