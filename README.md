@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0412-fizz-buzz) |
+| [0796-rotate-string](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0796-rotate-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
@@ -102,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
