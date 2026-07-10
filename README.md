@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0414-third-maximum-number) |
 | [1089-duplicate-zeros](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1480-running-sum-of-1d-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
