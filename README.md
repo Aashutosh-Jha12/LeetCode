@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -123,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
