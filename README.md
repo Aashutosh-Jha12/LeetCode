@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0412-fizz-buzz) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0136-single-number) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
