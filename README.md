@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1089-duplicate-zeros](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0268-missing-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0414-third-maximum-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
@@ -146,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
 | ------- |
