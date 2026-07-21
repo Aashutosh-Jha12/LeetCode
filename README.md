@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1089-duplicate-zeros](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Trie
