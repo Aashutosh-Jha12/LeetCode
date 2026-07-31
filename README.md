@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0075-sort-colors) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0069-sqrtx) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
