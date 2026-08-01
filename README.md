@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
