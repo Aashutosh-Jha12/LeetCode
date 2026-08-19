@@ -1,7 +1,6 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-       // vector<int> temp;
         vector<int> c(m+n);
         int i=0;
         int j=0;
@@ -32,5 +31,18 @@ public:
             nums1[x]=c[x];
         }
         
+        // int left=n-1,right=0;
+        // while(left>=0 && right < n){
+        //     if(nums1[left]==0 ) continue;
+        //     if(nums1[left]>nums2[right]){
+        //         swap(nums1[left],nums2[right]);
+        //     }
+        //     else{ break; }
+        //     sort(nums1.begin(),nums1.end());
+        //     sort(nums2.begin(),nums2.end());
+        //     for(int i=0; i<n; i++){
+        //         nums1.push_back(nums2[i]);
+        //     }
+        // }
     }
 };
