@@ -14,9 +14,10 @@ public:
                     arr2.push_back(nums[i]);
                 }
             }
-            for(int i=0; i<arr2.size();i++){
-                arr1.push_back(arr2[i]);
-            }
+            // for(int i=0; i<arr2.size();i++){
+            //     arr1.push_back(arr2[i]);
+            // }
+            arr1.insert(arr1.end(), arr2.begin(), arr2.end());
             return arr1;
     }
 };
