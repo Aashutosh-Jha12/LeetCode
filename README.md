@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2418-sort-the-people](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2418-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0645-set-mismatch) |
+| [2418-sort-the-people](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2418-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2418-sort-the-people](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2418-sort-the-people](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
