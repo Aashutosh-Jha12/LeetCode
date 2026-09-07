@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2418-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Union-Find
 |  |
 | ------- |
