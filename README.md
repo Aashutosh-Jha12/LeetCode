@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0224-basic-calculator) |
+| [0682-baseball-game](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Recursion
 |  |
