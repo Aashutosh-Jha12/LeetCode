@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2418-sort-the-people) |
+| [2951-find-the-peaks](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2951-find-the-peaks](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Quicksort
 |  |
