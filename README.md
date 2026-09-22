@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0412-fizz-buzz) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0645-set-mismatch) |
 ## Number Theory
