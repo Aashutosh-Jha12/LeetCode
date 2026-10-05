@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2418-sort-the-people) |
+| [2643-row-with-maximum-ones](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1260-shift-2d-grid) |
+| [2643-row-with-maximum-ones](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
