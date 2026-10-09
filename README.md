@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2418-sort-the-people](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2418-sort-the-people) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Stack
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0022-generate-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
 |  |
