@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2643-row-with-maximum-ones](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Divide and Conquer
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
