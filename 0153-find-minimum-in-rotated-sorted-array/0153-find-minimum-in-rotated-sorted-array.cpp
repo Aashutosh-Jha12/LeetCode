@@ -13,18 +13,15 @@ public:
         //     }
         // }
         // return nums[low];
-        int ans=INT_MAX;
-        while(low<=high){
+        while(low<high){
             int mid=low + (high-low)/2;
-            if(nums[low]<=nums[mid]){
-                ans=min(ans,nums[low]);
+            if(nums[mid]>nums[high]){
                 low=mid+1;
             }
             else{
-                ans=min(ans,nums[mid]);
-                high=mid-1;
+                high=mid;
             }
         }
-        return ans;
+        return nums[low];
     }
 };
