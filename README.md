@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aashutosh-Jha12/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
